@@ -9,14 +9,15 @@
   <div style="flex: 1; margin: 0;">
     <h3 style="margin: 0;">About</h3>
     <p>
-      Hi, I’m Deepanshi, currently working as a Research Assistant. I have an academic background in Mathematics and Economics and a strong interest in understanding and addressing real-world issues related to climate change, wages, gender, and social inequality.
+      Hi, I’m currently working as a Research Assistant with  <a href="https://aadityadar.com/" target="_blank">Dr Aaditya Dar </a>  . I have a masters degree in Economics from <a href="https://www.jnu.ac.in" target="_blank">Jawaharlal Nehru University</a> and a Bachelor's degree in Mathematics from <a href="https://www.sharda.ac" target="_blank">Sharda University</a> . I have strong interest in understanding and addressing real-world issues related to climate change, wages, gender, and social inequality. 
     </p>
     <p>
-      I enjoy working with datasets, building models, and translating numbers into stories that matter for people and policy. Looking ahead, I plan to pursue a Ph.D. to deepen my research.
+      I enjoy working with datasets, building models, and translating numbers into stories that matter for people and policy. 
     </p>
     <p>
       <b>Primary Interest:</b> Environmental Economics, Developmental Economics<br>
       <b>Secondary Interest:</b> Labor Economics, Agricultural Economics
+      <b>Contact:</b> deepanshirai123@gmail.com
     </p>
   </div>
 

@@ -17,7 +17,9 @@
     <p>
       <b>Primary Interest:</b> Environmental Economics, Developmental Economics<br>
       <b>Secondary Interest:</b> Labor Economics, Agricultural Economics<br>
+      <p>
       <b>Contact:</b> deepanshirai123@gmail.com
+      </p>
     </p>
   </div>
 

@@ -19,8 +19,7 @@
       <b>Secondary Interest:</b> Agricultural Economics, Labor Economics <br>
       <p>
     <b>Contact:</b> <a href="mailto:deepanshirai123@gmail.com">deepanshirai123@gmail.com</a>
-
-      </p>
+     </p>
     </p>
   </div>
 

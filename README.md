@@ -9,7 +9,7 @@
   <div style="flex: 1; margin: 0;">
     <h3 style="margin: 0;">About</h3>
     <p>
-      Hi, I’m currently working as a Research Associate with  <a href="https://aadityadar.com/" target="_blank">Dr Aaditya Dar (Amazon) </a>. I have a master's degree in Economics from <a href="https://www.jnu.ac.in" target="_blank">Jawaharlal Nehru University</a> and a Bachelor's degree in Mathematics from <a href="https://www.sharda.ac" target="_blank">Sharda University</a>. My research interests lie broadly in development economics, with a focus on how policies, institutions, and technological innovations shape economic opportunities for low-income households.
+      Hi, I’m currently working as a Research Associate with  <a href="https://aadityadar.com/" target="_blank">Dr Aaditya Dar (Amazon) </a>. I have a master's degree in Economics from <a href="https://www.jnu.ac.in" target="_blank">Jawaharlal Nehru University</a> and a Bachelor's degree in Mathematics from <a href="https://www.sharda.ac" target="_blank">Sharda University </a>. My research interests lie broadly in development economics, with a focus on how policies, institutions, and technological innovations shape economic opportunities for low-income households.
     </p>
     <p>
       I enjoy working with datasets, building models, and translating numbers into stories that matter for people and policy. 
